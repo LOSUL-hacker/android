@@ -13,10 +13,10 @@
   <project path="external/jemalloc_new" name="LineageOS-UL/android_external_jemalloc_new" remote="losul" />
   <project path="external/perfetto" name="LineageOS-UL/android_external_perfetto" remote="losul" />
   
-  <project path="frameworks/av" name="LineageOS-UL/android_frameworks_av" remote="losul" />
-  <project path="frameworks/base" name="LineageOS-UL/android_frameworks_base" remote="losul" />
+  <project path="frameworks/av" name="LOSUL-hacker/android_frameworks_av" remote="losul" />
+  <project path="frameworks/base" name="LOSUL-hacker/android_frameworks_base" remote="losul" />
   <project path="frameworks/libs/net" name="LineageOS-UL/android_frameworks_libs_net" remote="losul" />
-  <project path="frameworks/native" name="LineageOS-UL/android_frameworks_native" remote="losul" />
+  <project path="frameworks/native" name="LOSUL-hacker/android_frameworks_native" remote="losul" />
   <project path="frameworks/opt/telephony" name="LineageOS-UL/android_frameworks_opt_telephony" remote="losul" />
   
   <project path="hardware/broadcom/nfc" name="LineageOS-UL/android_hardware_broadcom_nfc" remote="losul" />
@@ -34,10 +34,10 @@
   <project path="packages/apps/Nfc" name="LineageOS-UL/android_packages_apps_Nfc" remote="losul" />
   <project path="packages/inputmethods/LatinIME" name="LineageOS-UL/android_packages_inputmethods_LatinIME" remote="losul" />
   <project path="packages/modules/adb" name="LineageOS-UL/android_packages_modules_adb" remote="losul" />
-  <project path="packages/modules/Bluetooth" name="LineageOS-UL/android_packages_modules_Bluetooth" remote="losul" />
-  <project path="packages/modules/Connectivity" name="LineageOS-UL/android_packages_modules_Connectivity" remote="losul" />
+  <project path="packages/modules/Bluetooth" name="LOSUL-hacker/android_packages_modules_Bluetooth" remote="losul" />
+  <project path="packages/modules/Connectivity" name="LOSUL-hacker/android_packages_modules_Connectivity" remote="losul" />
   <project path="packages/modules/NetworkStack" name="LineageOS-UL/android_packages_modules_NetworkStack" remote="losul" />
-  <project path="packages/modules/Wifi" name="LineageOS-UL/android_packages_modules_Wifi" remote="losul" />
+  <project path="packages/modules/Wifi" name="LOSUL-hacker/android_packages_modules_Wifi" remote="losul" />
   
   <project path="system/bpf" name="LineageOS-UL/android_system_bpf" remote="losul" />
   <project path="system/core" name="LineageOS-UL/android_system_core" remote="losul" />
