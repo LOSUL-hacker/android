@@ -1,4 +1,4 @@
-LineageOS Ultra Legacy
+LineageOS Ultra Legacy (merged with upstream by me)
 ===========
 
 Getting started
@@ -8,7 +8,7 @@ To get started with Android/LineageOS, you'll need to get familiar with [Source 
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/LineageOS-UL/android.git -b lineage-20.0 --git-lfs
+repo init -u https://github.com/LOSUL-hacker/android.git -b lineage-20.0 --git-lfs
 ```
 Then to sync up:
 ```
@@ -19,12 +19,7 @@ Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instru
 
 Submitting patches
 ------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit!
-
-Simply follow our guide on [how to submit patches](https://wiki.lineageos.org/submitting-patch-howto.html).
-
-To view the status of your and others' patches, visit [LineageOS Gerrit Code Review](https://review.lineageos.org/).
-
+Patches are always welcome! Please submit your patches via pull request!
 
 Buildbot
 --------
