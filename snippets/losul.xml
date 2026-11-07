@@ -4,7 +4,7 @@
   <!-- losul additions -->
   <project path="art" name="LineageOS-UL/android_art" remote="losul" />
   
-  <project path="bionic" name="LineageOS-UL/android_bionic" remote="losul" />
+  <project path="bionic" name="LOSUL-hacker/android_bionic" remote="losul" />
   
   <project path="device/lineage/sepolicy" name="LineageOS-UL/android_device_lineage_sepolicy" remote="losul" />
   <project path="device/qcom/sepolicy-legacy" name="LineageOS-UL/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" revision="lineage-20.0-legacy" />
@@ -17,7 +17,7 @@
   <project path="frameworks/base" name="LOSUL-hacker/android_frameworks_base" remote="losul" />
   <project path="frameworks/libs/net" name="LineageOS-UL/android_frameworks_libs_net" remote="losul" />
   <project path="frameworks/native" name="LOSUL-hacker/android_frameworks_native" remote="losul" />
-  <project path="frameworks/opt/telephony" name="LineageOS-UL/android_frameworks_opt_telephony" remote="losul" />
+  <project path="frameworks/opt/telephony" name="LOSUL-hacker/android_frameworks_opt_telephony" remote="losul" />
   
   <project path="hardware/broadcom/nfc" name="LineageOS-UL/android_hardware_broadcom_nfc" remote="losul" />
   <project path="hardware/interfaces" name="LineageOS-UL/android_hardware_interfaces" remote="losul" />
@@ -31,9 +31,9 @@
   <project path="hardware/qcom-caf/msm8974/media" name="LineageOS-UL/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="lineage-20.0-caf-msm8974" />
   <project path="hardware/qcom-caf/wlan" name="LineageOS-UL/android_hardware_qcom_wlan" groups="qcom,waipio-vendor" revision="lineage-20.0-caf" remote="losul" />
 
-  <project path="packages/apps/Nfc" name="LineageOS-UL/android_packages_apps_Nfc" remote="losul" />
+  <project path="packages/apps/Nfc" name="LOSUL-hacker/android_packages_apps_Nfc" remote="losul" />
   <project path="packages/inputmethods/LatinIME" name="LineageOS-UL/android_packages_inputmethods_LatinIME" remote="losul" />
-  <project path="packages/modules/adb" name="LineageOS-UL/android_packages_modules_adb" remote="losul" />
+  <project path="packages/modules/adb" name="LOSUL-hacker/android_packages_modules_adb" remote="losul" />
   <project path="packages/modules/Bluetooth" name="LOSUL-hacker/android_packages_modules_Bluetooth" remote="losul" />
   <project path="packages/modules/Connectivity" name="LOSUL-hacker/android_packages_modules_Connectivity" remote="losul" />
   <project path="packages/modules/NetworkStack" name="LineageOS-UL/android_packages_modules_NetworkStack" remote="losul" />
